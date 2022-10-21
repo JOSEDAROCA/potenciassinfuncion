@@ -1,0 +1,2 @@
+# potenciassinfuncion
+Created with CodeSandbox
